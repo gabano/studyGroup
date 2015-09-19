@@ -1,59 +1,21 @@
-Vancouver R Study Group
+NUPEM/UFRJ R Study Group
 =======================
 
-Welcome to the Vancouver R Study Group! Check out our [event listings on our website](http://minisciencegirl.github.io/studyGroup/), or join the conversation on our [message board](https://github.com/minisciencegirl/studyGroup/issues).
+Bem-vindo ao Grupo de Estudos em R do NUPEM/UFRJ! veja nossa [Lista de eventos](http://gabano.github.io/studyGroup/) , ou acesse nosso [quadro de discussão](https://github.com/gabano/studyGroup/issues) (fórum online).
 
-### Wait What's a 'Mozilla Study Group'?
+### O que é esse grupo de estudos?
+Esse é um grupo de estudos onde pessoas com um interesse em comum podem trabalhar de modo colaborativo a compartilhar conhecimentos, habilidades e idéias no âmbito da utilização da programação para a pesquisa acadêmica. O objetivo é criar um espaço amigável onde as pessoas possam compartilhar seu trabalho, ajudar e pedir ajuda sobre programação, aprender e trabalhar junto a seus pares.
 
-Mozilla Study Groups are fun, informal meetups of your friends and colleagues from around your local institution or town to share skills, stories and ideas on using code for research. The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers.
 
-## For Participants
+## Para os participantes
+Bem-vindo! Aqui estão algumas coisas para saber, já que está aqui...
 
-Welcome to our Mozilla Study Group! A few things to do & know now that you're here:
+ - **Acompanhe este grupo:** lá em cima, à direita, há um botão que diz "Watch"/"Seguir"; clique nele e selecione seguir. Isso fará com que novas discussões sejam eviadas por e-mail; se você não quiser receber e-mails com atualizações , mas quer ser notificado no GitHub, mude as configurações em Configurações -> Central de Notificações (clicar na sua foto > configurações > Central de notificações (Na parte esquerda).
+ - **Veja nossas discussões:** clique em 'issues' na barra da direita; este é o local onde todas as discussões estão sendo feitas. Use este espaço para perguntar questões, pedir eventos, fazer sugestões, ou apenas dizer 'Olá'.
+ - **Leia o código de conduta:** este grupo é para todo mundo - nós seguimos um [conjunto de regras](https://www.mozillascience.org/code-of-conduct/) que pede que todos sejam tratados com respeito. Ajude-nos a manter um espaço em que todos se sintam confortáveis e bem-vindos, onde teremos um ótimo tempo juntos!
+ - **Adicione-se a lista de membros:** Se você quiser aparecer no nosso site na área "Quem somos", dê uma olhada em `_data/members.yml`; envie-nos um pedido com seus dados ou crie uma nova 'Issue' com o pedido e faremos isso pra você.
 
- - **Watch this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
- - **Check out the issue tracker:** click on 'issues' in the sidebar on the right; this is where all the conversations this study groups is having live. Use this space to ask questions, request events, make suggestions, or just say hi.
- - **Read the code of conduct:** this Study Group is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
- - **Add yourself to the website:** If you'd like to appear on the website under the 'Who we Are' section, have a look at the `_data/members.yml`; send us a pull request with an entry for yourself, or open an issue and we'll do it for you.
 
-## For Organizers
-
-## For Participants
-
-Welcome to our Study Group! A few things to do & know now that you're here:
-
- - **Watch this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
- - **Check out the issue tracker:** click on 'issues' in the sidebar on the right; this is where all the conversations this study groups is having live. Use this space to ask questions, request events, make suggestions, or just say hi.
- - **Read the code of conduct:** this Study Group is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
- - **Add yourself to the website:** If you'd like to appear on the website under the 'Who we Are' section, have a look at the `_data/members.yml`; send us a pull request with an entry for yourself, or open an issue and we'll do it for you.
-
-## For Organizers
-
-### It's Broken, I Need Help
-
-If anything in these instructions doesn't work or doesn't make sense, open an issue [here](https://github.com/mozillascience/studyGroup/issues) or email bill@mozillafoundation.org.
-
-### Check out the Handbook
-
-The instructions below will help you set up the online tools for your Mozilla Study Group - but if you're looking for organziation strategies, event plans and lesson ideas, check out the [Mozilla Study Group Handbook](https://mozillascience.github.io/studyGroupHandbook/)!
-
-## How to Set Up Your Own Mozilla Study Group Website
-
-Everything you need to set up your own Mozilla Study Group website for organizing events is right here - follow the following steps and you'll be up and running soon, and if you have trouble, [open an issue](https://github.com/mozillascience/studyGroup/issues) and we'll help you out!
-
- 1. **Make yourself an account on GitHub.** The free one is just fine.
- 2. **Fork this repository.** Up in the top right corner of this page, there's a button that says 'Fork'; press it! This makes your very own copy of all this stuff in your space on GitHub; when the copy is done, GitHub will automatically take you there.
- 3. **Turn on the Issue Tracker.** An issue tracker is a message board GitHub sets up for every repository; you'll use it to post information about your event and talk to your participants. To turn it on: 
-   - click on 'Settings' in the right sidebar of your repo;
-   - click the checkbox beside 'Issues'; 
-   - head back to your repo by clicking on the big `studyGroup` at the top of the page.
- 4. **Edit the `_config.yml` file** in your new repository:
-   - click on `_config.yml`;
-   - click on the little pencil near the top right;
-   - follow the instructions in the file on how to edit it; 
-   - when you're done, press the green 'Commit Changes' button at the bottom of the page.
-
-That's it, you're done! You can see your new website at `https://yourUserName.github.io/studyGroup/`, where `yourUserName` is the user name you signed up for GitHub with. If this is your first time making a webpage on GitHub, it might take 30 minutes for things to percolate through their computers - don't worry, it's all good, check back later and your website should be up and running.
 
 ### Optional: Setting up a Google Calendar for your Study Group
 
