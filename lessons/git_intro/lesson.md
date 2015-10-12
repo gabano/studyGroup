@@ -16,7 +16,14 @@ A resposta curta: Porque ele eficaz quando se trata de  organizar arquivos que p
 
 
 ### Criando uma conta no GitHub  
+Criar uma conta no GitHub fácil e gratuito. Acesse https://github.com  e clique em Sing Up no canto superior direito.
+Agora, preencha com os dados pedidos e clique em 'Create an Account'. Se tudo deu certo, você é redirecionado a uma pagina que oferece diversos tipos de planos, deixe-a como está. Agora, clique em "Finish Sing Up" para terminar o processo.
+Vá para o seu endereço de e-mail e confirme a sua conta.
+
+
 #### Criando uma forquilha
+Com sua conta logada, acesse a página github.com/gabano/studyGroup e clique em fork
+
 #### Submetendo alterações em sua própria forquilha
 #### Submetendo alterações em outros repositórios (pull request)
 ### Manipualção de Diretórios
