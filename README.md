@@ -1,19 +1,17 @@
 NUPEM/UFRJ R Study Group
 =======================
 
-Bem-vindo ao Grupo de Estudos em R do NUPEM/UFRJ! veja nossa [Lista de eventos](http://gabano.github.io/studyGroup/) , ou acesse nosso [quadro de discussão](https://github.com/gabano/studyGroup/issues) (fórum online).
 
-### O que é esse grupo de estudos?
-Esse é um grupo de estudos onde pessoas com um interesse em comum podem trabalhar de modo colaborativo a compartilhar conhecimentos, habilidades e idéias no âmbito da utilização da programação para a pesquisa acadêmica. O objetivo é criar um espaço amigável onde as pessoas possam compartilhar seu trabalho, ajudar e pedir ajuda sobre programação, aprender e trabalhar junto a seus pares.
+FIZ MERDA!!! 
 
 
-## Para os participantes
-Bem-vindo! Aqui estão algumas coisas para saber, já que está aqui...
 
- - **Acompanhe este grupo:** lá em cima, à direita, há um botão que diz "Watch"/"Seguir"; clique nele e selecione seguir. Isso fará com que novas discussões sejam eviadas por e-mail; se você não quiser receber e-mails com atualizações , mas quer ser notificado no GitHub, mude as configurações em Configurações -> Central de Notificações (clicar na sua foto > configurações > Central de notificações (Na parte esquerda).
- - **Veja nossas discussões:** clique em 'issues' na barra da direita; este é o local onde todas as discussões estão sendo feitas. Use este espaço para perguntar questões, pedir eventos, fazer sugestões, ou apenas dizer 'Olá'.
- - **Leia o código de conduta:** este grupo é para todo mundo - nós seguimos um [conjunto de regras](https://www.mozillascience.org/code-of-conduct/) que pede que todos sejam tratados com respeito. Ajude-nos a manter um espaço em que todos se sintam confortáveis e bem-vindos, onde teremos um ótimo tempo juntos!
- - **Adicione-se a lista de membros:** Se você quiser aparecer no nosso site na área "Quem somos", dê uma olhada em `_data/members.yml`; envie-nos um pedido com seus dados ou crie uma nova 'Issue' com o pedido e faremos isso pra você.
+
+
+
+
+
+
 
 
 
