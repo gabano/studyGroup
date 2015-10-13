@@ -3,6 +3,7 @@ NUPEM/UFRJ R Study Group
 
 Bem-vindo ao Grupo de Estudos em R do NUPEM/UFRJ! veja nossa [Lista de eventos](http://gabano.github.io/studyGroup/) , ou acesse nosso [quadro de discussão](https://github.com/gabano/studyGroup/issues) (fórum online).
 
+Um porta de novos conhecimentos parece se abrir!
 ### O que é esse grupo de estudos?
 Esse é um grupo de estudos onde pessoas com um interesse em comum podem trabalhar de modo colaborativo a compartilhar conhecimentos, habilidades e idéias no âmbito da utilização da programação para a pesquisa acadêmica. O objetivo é criar um espaço amigável onde as pessoas possam compartilhar seu trabalho, ajudar e pedir ajuda sobre programação, aprender e trabalhar junto a seus pares.
 
