@@ -48,3 +48,6 @@ Demonstração na prática, no encontro. As anotações virão posteriormente pa
 
 ### Markdown
   + [RMarkDown.pdf](https://github.com/gabano/studyGroup/files/11768/rmarkdown-cheatsheet.pdf)
+  + [Básico do Markdown](https://help.github.com/articles/markdown-basics/)
+  + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+   
