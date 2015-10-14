@@ -1,5 +1,5 @@
 ---
-title: Introdução ao R e tudo que vimos até agora.
+title: Introdução ao R 
 text: Faremos uma revisão do conteúdo que vimos até agora.
 location: Sala de estudos PPG-CiAC
 link: https://github.com/gabano/studyGroup/issues/13
