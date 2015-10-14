@@ -1,12 +1,11 @@
 # Copie e Cole o código abaixo, fazendo as alterações desejadas e faça um Pull Request para que seja aceito.
 
-- name: Joao Nogueira
+- name: João Nogueira
   affiliation: UFRJ
   github: gabano
   interests:
     - Ecology
-    - Estatisticss
-    - Bioinformatics
+    - Estatistics
     - Open Science
     
 - name: Roberto N. Farias
