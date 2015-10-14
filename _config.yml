@@ -20,7 +20,7 @@ description: "Grupo de estudos em R NUPEM/UFRJ"
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground:Bem-vindo ao nosso Grupo de Estudos"
+titleBackground: "Bem-vindo ao nosso Grupo de Estudos"
 headlineMain: "Vamos trabalhar juntos"
 
 # Setup Google Calendar
