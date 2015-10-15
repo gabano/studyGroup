@@ -1,24 +1,24 @@
-#Setup ~~~
-#Follow these 2 steps to set up your site.
+#Configurar ~~~
+#Siga os dois passoas abaixo para configurar seu site
 
-#Step 1: change YourUserName to the user name you chose on GitHub:
+#Passo 1.1: Mude SeuNomeDeUsuario para o nome de usuário do GitHub:
 user: gabano
 
-#Step 2: give your study group a name and a short description:
+#Passo 1.2: Dê um nome ao seu grupo de estudos.
 title: GER NUPEM/UFRJ
 
 description: "Grupo de estudos em R NUPEM/UFRJ"
 
-#Step 2: press the green 'Commit Changes' button at the bottom of this page.
+#Passo 2: Clique no botão verde ('Commit Changes') no fim dessa página.
 
-# That's it, your website is all set up!
-# You can see it at https://YourUserName.github.io/studyGroup/
-# No need to change anything below this line.
-# To make your first event, check out the instructions at https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
-# Having trouble? Open a new issue at https://github.com/mozillascience/studyGroup/issues and we'll help you out ASAP!
+# É isso, seu sítio está configurado!
+# Você pode vê-lo em https://YourUserName.github.io/studyGroup/
+# Não é preciso mudar nada abaixo dessa linha.
+# Para criar seu primeiro evento, confira as intruções em https://github.com/mozillascience/studyGroup#how-to-launch-a-new-event
+# Enfrentando problemas? Abra uma nova Issue em https://github.com/mozillascience/studyGroup/issues e nós o ajudaremos assim que possível!
 
-# Optional Configuration
-# None of these things need to be changed - but feel free!
+# Configuração opcional
+# Nada disso precisa ser mudado - mas sinta-se livre!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Bem-vindo ao nosso Grupo de Estudos"
@@ -37,15 +37,15 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USUARIO@gmail.com/publi
 
 
 #========================================
-# No touching anything below this line :)
+# Não toque em nada abaixo dessa linha :)
 #========================================
-# Color settings (hex-codes without the leading hash-tag)
+# Configurações de cor (hex-codes sem o jogo da velha)
 color:
   primary: fed136
   secondary: fec503
   secondary-dark: 333
 
-# Build settings
+# Configurações da edição (build)
 markdown: kramdown
 permalink: pretty
 
